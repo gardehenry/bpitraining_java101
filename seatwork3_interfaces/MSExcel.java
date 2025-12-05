@@ -1,6 +1,4 @@
-
-
-public class MSExcel implements <fill> {
+public class MSExcel implements Executable {
 	
 	@Override
 	public void run() {

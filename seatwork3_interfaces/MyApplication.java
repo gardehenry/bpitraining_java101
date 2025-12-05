@@ -1,5 +1,3 @@
-
-
 public class MyApplication {
 
 	public static void main(String[] args) {
@@ -19,6 +17,4 @@ public class MyApplication {
 	private static void stopProgram(Executable executableProgram) {
 		executableProgram.stop();
 	}
-
-
 }

@@ -1,6 +1,4 @@
-
-
-public class MSWord <fill> Executable {
+public class MSWord implements Executable {
 	
 	@Override
 	public void run() {
